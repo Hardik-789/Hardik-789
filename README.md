@@ -25,5 +25,5 @@
 ---
 
 ### 📫 Connect with me
-📧 yourname@gmail.com  
-🔗 [LinkedIn](your-linkedin-url)
+📧 gkdogra789@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/hardik-dogra-05a1791b9/)
