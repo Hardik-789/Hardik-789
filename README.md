@@ -1,10 +1,8 @@
-# Hardik-789
-👋 Profile README — About me  | Data Science | Analytics | Machine Learning
 # Hi 👋, I'm Hardik Dogra
 
-🎓 Data Science Student | 📊 Aspiring Data Analyst  
-🌱 Currently learning: Machine Learning, Power BI, SQL, Python, Advanced Excel 
-🤝 Open to: Data Science internships and projects  
+ Data Science Student | Aspiring Data Analyst  
+ Currently learning: Machine Learning, Power BI, SQL, Python, Advanced Excel 
+ Open to: Data Science internships and projects  
 
 ---
 
